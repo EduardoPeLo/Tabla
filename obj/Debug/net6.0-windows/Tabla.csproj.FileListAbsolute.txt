@@ -1,0 +1,16 @@
+C:\Users\Pre-Installed\Desktop\VS C#\Tabla\Tabla\bin\Debug\net6.0-windows\Tabla.exe
+C:\Users\Pre-Installed\Desktop\VS C#\Tabla\Tabla\bin\Debug\net6.0-windows\Tabla.deps.json
+C:\Users\Pre-Installed\Desktop\VS C#\Tabla\Tabla\bin\Debug\net6.0-windows\Tabla.runtimeconfig.json
+C:\Users\Pre-Installed\Desktop\VS C#\Tabla\Tabla\bin\Debug\net6.0-windows\Tabla.dll
+C:\Users\Pre-Installed\Desktop\VS C#\Tabla\Tabla\bin\Debug\net6.0-windows\Tabla.pdb
+C:\Users\Pre-Installed\Desktop\VS C#\Tabla\Tabla\obj\Debug\net6.0-windows\Tabla.Form1.resources
+C:\Users\Pre-Installed\Desktop\VS C#\Tabla\Tabla\obj\Debug\net6.0-windows\Tabla.csproj.GenerateResource.cache
+C:\Users\Pre-Installed\Desktop\VS C#\Tabla\Tabla\obj\Debug\net6.0-windows\Tabla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pre-Installed\Desktop\VS C#\Tabla\Tabla\obj\Debug\net6.0-windows\Tabla.AssemblyInfoInputs.cache
+C:\Users\Pre-Installed\Desktop\VS C#\Tabla\Tabla\obj\Debug\net6.0-windows\Tabla.AssemblyInfo.cs
+C:\Users\Pre-Installed\Desktop\VS C#\Tabla\Tabla\obj\Debug\net6.0-windows\Tabla.csproj.CoreCompileInputs.cache
+C:\Users\Pre-Installed\Desktop\VS C#\Tabla\Tabla\obj\Debug\net6.0-windows\Tabla.dll
+C:\Users\Pre-Installed\Desktop\VS C#\Tabla\Tabla\obj\Debug\net6.0-windows\refint\Tabla.dll
+C:\Users\Pre-Installed\Desktop\VS C#\Tabla\Tabla\obj\Debug\net6.0-windows\Tabla.pdb
+C:\Users\Pre-Installed\Desktop\VS C#\Tabla\Tabla\obj\Debug\net6.0-windows\Tabla.genruntimeconfig.cache
+C:\Users\Pre-Installed\Desktop\VS C#\Tabla\Tabla\obj\Debug\net6.0-windows\ref\Tabla.dll
